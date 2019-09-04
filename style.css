@@ -1,0 +1,64 @@
+*
+body{
+	background: #efefef;
+	font-family: sans-serif;
+}
+	.profile-img{
+	width: 30%;
+	float: right;
+}
+.profile-img img{
+	width: 50%;
+	height: 50%;
+}
+.ABOUT{
+	text-align: left;
+	margin-bottom: 20px;
+	margin-top: 10px;
+}
+
+.profile-info{
+	width: 60%;
+	height: 60%;
+	float: middle;
+	padding: 0px 30px;
+}
+.profile-info h3{
+margin-top: 70px;
+margin-bottom: 30px;
+}
+.form h3{
+margin-top: 70px;
+margin-bottom: 30px;
+}
+.PERSONAL-DATA{
+width: 30%;
+margin-top: 10px;
+margin-bottom: 20px;
+text-align: left;
+background: none;
+}
+.EDUCATION{
+width: 30%;
+margin: 2%;
+text-align: left;
+background: none;
+}
+.EXPERIENCE{
+width: 30%;
+margin: 2%;
+text-align: left;
+background: none;
+}
+.TECHNICAL-SKILLS{
+width: 30%;
+margin: 2%;
+text-align: left;
+background: none;
+}
+.REFERENCE{
+width: 30%;
+margin: 2%;
+text-align: left;
+background: none;
+}
